@@ -1,8 +1,8 @@
-Grades for the projects go as follow:
+Grades for the projects go as follows:
 
 P0 - 100%
 
-P1 - 50% (i got robbed, the code worls fine)
+P1 - 50% (I got robbed, the code works fine)
 
 P2 - 87%
 
